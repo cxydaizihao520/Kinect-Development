@@ -1,2 +1,0 @@
-# Kinect-Development
-data collection
